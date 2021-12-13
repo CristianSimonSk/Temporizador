@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+html{
+    background-color: darkslategrey;
+    background-size: 100%;
+    display: block;
+    text-align: center;
+}
+section{
+    max-height: 400px;
+    max-width: 600px;
+    background-color: white;
+    background-size: 100%;
+    margin: 100px auto auto auto;
+    padding: 10px;
+}
+h1{
+    font-size: 40px;
+}
+.contador{
+    font-size: 70px;
+}
+button{
+    margin: 0 20px 0 20px;
+    font-size: 25px;
+}
+.pausado{
+    color: crimson;
+}
